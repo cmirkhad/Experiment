@@ -33,3 +33,4 @@ echo(version=version());
 // Dedication along with this software.
 // If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
+"# adsfdaga"  primite.stl logo_and_text.scad решетка45.scad
